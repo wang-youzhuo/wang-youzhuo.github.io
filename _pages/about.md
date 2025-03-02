@@ -24,7 +24,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025.
+- *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025！！
 - *2025.02*: &nbsp;🎉🎉I was honored to be a reviewer in ICLR 2025 workshop for sci-llm.
 - *2024.06*: &nbsp;🎉🎉I was honored to be selected as an outstanding graduate in HUST. 
 
@@ -53,7 +53,7 @@ CVPR, 2025
 - *2020* Freshman scholarship, HUST
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/shanghaitech.JPG' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
@@ -65,7 +65,7 @@ September 2024 - Now
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hust.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hzkjdx.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**Huazhong University of Science and Technology**</span>
