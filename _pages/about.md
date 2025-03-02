@@ -53,7 +53,7 @@ CVPR, 2025
 - *2020* Freshman scholarship, HUST
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/shanghaitech.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/shanghaitech.JPG' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
