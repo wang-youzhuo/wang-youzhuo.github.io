@@ -65,7 +65,7 @@ September 2024 - Now
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hk.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hk1.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**Huazhong University of Science and Technology**</span>
