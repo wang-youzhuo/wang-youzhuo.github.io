@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Hello, I am Hanqing Wang, an incomming master student in the Visual & Data Intelligence (<a href="https://vdi.sist.shanghaitech.edu.cn/">VDI</a>) Center, HCVLab advised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/">Jingya Wang</a>.in ShanghaiTech.Before that, I got my bachelor's degree
-            at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology <a href="http://aia.hust.edu.cn/">HUST AIA</a>,
-            I'm currently interested in artificial intelligence, computer vision, machine learning, and their applications in robotics.
-            If you have any questions, feel free to drop me an email!
+ Hello, I am Hanqing Wang, I got my bachelor's degree at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology <a href="http://aia.hust.edu.cn/">HUST AIA</a>, I'm currently interested in artificial intelligence, computer vision, machine learning, and their applications in robotics.
+If you have any questions, feel free to drop me an email!
 
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025！！
-- *2025.02*: &nbsp;🎉🎉I was honored to be a reviewer in ICLR 2025 workshop for sci-llm.
+- *2025.02*: &nbsp;🎉🎉I was honored to be a reviewer in the ICLR 2025 workshop for sci-llm.
 - *2024.06*: &nbsp;🎉🎉I was honored to be selected as an outstanding graduate in HUST. 
 
 
