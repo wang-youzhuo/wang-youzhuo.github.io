@@ -51,12 +51,23 @@ CVPR, 2025
 - *2020* Freshman scholarship, HUST
 
 # 📖 Educations
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hkust.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**Hong Kong University of Science and Technology(GZ)**</span>
+
+September 2025 - June 2027
+
+Major: Mphil
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
 
-September 2024 - Now
+September 2024 - April 2025
 
   Major: Master. in Computer Science
 
@@ -74,8 +85,8 @@ Major: B.E. in Automation Engineering
 
 </div>
 </div>
-
-- *2024.09 - Present (now)*, ShanghaiTech University, Computer Science. 
+- *2025.09 - 2027.06*, Hong Kong University of Science and Technology(GZ), Mphil.
+- *2024.09 - 2025.04*, ShanghaiTech University, Computer Science. 
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, Automation. 
 
 # 💻 Experience
