@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Hello, I am Hanqing Wang, I got my bachelor's degree at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology <a href="http://aia.hust.edu.cn/">HUST AIA</a>, I'm currently interested in artificial intelligence, computer vision, machine learning, and their applications in robotics.
-If you have any questions, feel free to drop me an email!
+ Hello, I am Hanqing Wang, an incoming Mphil student in  <a href="https://www.hkust-gz.edu.cn/zh/?variant=zh-cn">Hong Kong University of Science and Technology(GZ)</a>. I got my bachelor degree at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology <a href="http://aia.hust.edu.cn/">HUST AIA</a>, and I am a research intern at <a href="[http://aia.hust.edu.cn/](https://www.shlab.org.cn/)">ShangHai AI Lab</a> Now. 
+ 
+ I'm currently interested in artificial intelligence, computer vision, machine learning, and their applications in robotics and MLLMs. If you have any questions, feel free to drop me an email!
 
 
 # 🔥 News
@@ -50,6 +51,32 @@ CVPR, 2025
 - *2021* Scholarship of Scientific and Technological Innovation, HUST
 - *2020* Freshman scholarship, HUST
 
+# ✡️ Research Experience
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+September 2024 - April 2025
+
+  Reasearch Assistant: LLM, Embodied AI, 3D Vision
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiAI Lab**</span>
+
+April 2025 - Now
+
+  Research Intern: LLMs, Benchmark
+
+</div>
+</div>
+
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hkust.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,18 +86,6 @@ CVPR, 2025
 September 2025 - June 2027
 
 Major: Mphil
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**ShanghaiTech University**</span>
-
-September 2024 - April 2025
-
-  Major: Master. in Computer Science
-
 </div>
 </div>
 
@@ -91,5 +106,4 @@ Major: B.E. in Automation Engineering
 
 # 💻 Experience
 - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
-- *2020.11 - 2023.09 *, Robocon Team in HUST. 
 
