@@ -49,7 +49,7 @@ CVPR, 2025
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AI LAB.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size:18px;">**ShanghaiAI Lab**</span>
+<span style="font-size:18px;">**Shanghai Artificial Intelligence Laboratory**</span>
 
 April 2025 - Now
 
