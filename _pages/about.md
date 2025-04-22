@@ -52,6 +52,17 @@ CVPR, 2025
 - *2020* Freshman scholarship, HUST
 
 # ✡️ Research Experience
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/AI LAB.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiAI Lab**</span>
+
+April 2025 - Now
+
+  Research Intern: LLMs, Benchmark
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,17 +76,7 @@ September 2024 - April 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<span style="font-size:18px;">**ShanghaiAI Lab**</span>
-
-April 2025 - Now
-
-  Research Intern: LLMs, Benchmark
-
-</div>
-</div>
 
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/hkust.png' alt="sym" width="95%"></div></div>
