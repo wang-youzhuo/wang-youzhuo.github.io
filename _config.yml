@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanqing Wang"
   avatar           : "images/cat.jpg"
-  bio              : "ShanghaiTech University"
-  location         : "ShangHai, China"
+  bio              : "HKUST(GZ)"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.cz/citations?user=OeVwcDcAAAAJ&hl=zh-CN"
