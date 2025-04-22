@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉A new journey at ShangHai AI lab as a research intern！！
 - *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025！！
 - *2025.02*: &nbsp;🎉🎉I was honored to be a reviewer in the ICLR 2025 workshop for sci-llm.
 - *2024.06*: &nbsp;🎉🎉I was honored to be selected as an outstanding graduate in HUST. 
@@ -42,14 +43,7 @@ CVPR, 2025
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2024.06* Outstanding Graduate in <a href="http://aia.hust.edu.cn/"> HUST</a>!
-- *2023* China University Robot Competition of ROBOCON, <b>First Prize</b>
-- *2023* <b>"SIEMENS Cup"</b> China Intelligent Manufacturing Challenge, <b>Second Prize</b>
-- *2022* China University Robot Competition of ROBOCON, <b>First Prize</b>
-- *2022* RoboCom Robot developer competition, <b>Third Prize</b>
-- *2021* Scholarship of Scientific and Technological Innovation, HUST
-- *2020* Freshman scholarship, HUST
+
 
 # ✡️ Research Experience
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/AI LAB.png' alt="sym" width="95%"></div></div>
@@ -101,10 +95,17 @@ Major: B.E. in Automation Engineering
 
 </div>
 </div>
-- *2025.09 - 2027.06*, Hong Kong University of Science and Technology(GZ), Mphil.
-- *2024.09 - 2025.04*, ShanghaiTech University, Computer Science. 
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, Automation. 
 
-# 💻 Experience
+
+# 🏆 Honors and Awards
+- *2024.06* Outstanding Graduate in <a href="http://aia.hust.edu.cn/"> HUST</a>!
+- *2023* China University Robot Competition of ROBOCON, <b>First Prize</b>
+- *2023* <b>"SIEMENS Cup"</b> China Intelligent Manufacturing Challenge, <b>Second Prize</b>
 - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>. 
+- *2022* China University Robot Competition of ROBOCON, <b>First Prize</b>
+- *2022* RoboCom Robot developer competition, <b>Third Prize</b>
+- *2021* Scholarship of Scientific and Technological Innovation, HUST
+- *2020* Freshman scholarship, HUST
 
+# 🎨 Hobbies
+🚴🏻‍♂️ Cycling, 🏀 Basketball, ⛰️ Hiking, 📷 Photography
