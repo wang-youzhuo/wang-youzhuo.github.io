@@ -24,12 +24,26 @@ redirect_from:
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉A new journey at ShangHai AI lab as a research intern！！
+- *2025.04*: &nbsp;🎉🎉Draw With Thought released on arxiv, check it now！！
 - *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025！！
 - *2025.02*: &nbsp;🎉🎉I was honored to be a reviewer in the ICLR 2025 workshop for sci-llm.
 - *2024.06*: &nbsp;🎉🎉I was honored to be selected as an outstanding graduate in HUST. 
 
 
 # 📝 Publications(\* Indicates Equal Contribution)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/draw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/pdf/2504.09479)
+
+Zhiqing Cui\*, Jiahao Yuan\*, **Hanqing Wang**, Yanshu Li, Chenxu Du, Zhenglong Ding
+
+Under Review
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
