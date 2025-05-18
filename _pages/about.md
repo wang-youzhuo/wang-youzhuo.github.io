@@ -72,7 +72,7 @@ April 2025 - Now
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skdblue.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
