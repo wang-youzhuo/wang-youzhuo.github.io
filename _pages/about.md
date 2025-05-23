@@ -54,6 +54,8 @@ Chulin Yu\*, **Hanqing Wang\***, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jin
 CVPR, 2025
 
 [Project Page](https://seq-afford.github.io/)
+[PaperWeekly](https://mp.weixin.qq.com/s/Axk9-05R2SN_EuCu5PSwVw?poc_token=HJ4pMGijHyHdTWmWB1yg1AhlCjNOqeDoBi3Gt9ta)
+[搜狐](https://www.sohu.com/a/881316700_121956424)
 </div>
 </div>
 
