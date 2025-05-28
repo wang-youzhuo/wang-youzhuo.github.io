@@ -31,7 +31,7 @@ redirect_from:
 
 
 # 📝 Publications(\* Indicates Equal Contribution)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/DAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/DAG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding](https://hq-king.github.io/)
