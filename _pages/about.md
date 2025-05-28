@@ -36,9 +36,10 @@ redirect_from:
 
 [DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding](https://hq-king.github.io/)
 
-**Hanqing Wang#**, Zhenhao Zhang\*, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+**Hanqing Wang\***, Zhenhao Zhang\*, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 Under Review
+[Project Page](https://zhangzhh.cn/DAG_page/)
 
 
 </div>
@@ -54,6 +55,7 @@ Zhiqing Cui\*, Jiahao Yuan\*, **Hanqing Wang**, Yanshu Li, Chenxu Du, Zhenglong 
 Under Review
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.09479-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2504.09479)
+
 
 </div>
 </div>
