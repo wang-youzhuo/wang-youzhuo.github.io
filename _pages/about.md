@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://hq-king.github.io/)
+[DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding](https://hq-king.github.io/)
 
 **Hanqing Wang**,zhenhao zhang\*, Kaiyang Ji\*, Mingyu Liu
 
