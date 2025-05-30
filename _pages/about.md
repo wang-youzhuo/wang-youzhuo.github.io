@@ -134,12 +134,13 @@ Major: B.E. in Automation Engineering
 
 # 🏆 Honors and Awards
 - *2024.06* Outstanding Graduate in <a href="http://aia.hust.edu.cn/"> HUST</a>!
-- *2023* China University Robot Competition of ROBOCON, <b>First Prize</b>
-- *2022* China University Robot Competition of ROBOCON, <b>First Prize</b>
-- *2021* China University Robot Competition of ROBOCON, <b>First Prize</b>
+- *2023* China University Robot Competition of ROBOCON, <b>National First Prize</b>
+- *2022* China University Robot Competition of ROBOCON, <b>National First Prize</b>
+- *2021* China University Robot Competition of ROBOCON, <b>National First Prize</b>
 - *2023* <b>"SIEMENS Cup"</b> China Intelligent Manufacturing Challenge, <b>Second Prize</b>
+- *2022* National Intelligent Robot Innovation Competition, <b>National First Prize</b>
 - *2022.07 - 2022.08 *, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>.
-- - *2022* RoboCom Robot developer competition, <b>Third Prize</b>
+- *2022* RoboCom Robot developer competition, <b>Third Prize</b>
 - *2021* Scholarship of Scientific and Technological Innovation, HUST
 - *2020* Freshman scholarship, HUST
 
