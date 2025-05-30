@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉Awesome Affordance Learning realeased, check it [here]([https://seq-afford.github.io/](https://github.com/hq-King/Awesome-Affordance-Learning))![GitHub Repo stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=social)
+- *2025.05*: &nbsp;🎉🎉Awesome Affordance Learning realeased, check it [here]([https://seq-afford.github.io/](https://github.com/hq-King/Awesome-Affordance-Learning)) ![GitHub Repo stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=social)
 ！！
 - *2025.04*: &nbsp;🎉🎉A new journey at ShangHai AI lab as a research intern！！
 - *2025.04*: &nbsp;🎉🎉Draw With Thought released on arxiv, check it now！！
