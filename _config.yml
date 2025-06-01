@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hqking"
+title                    : "Youzhuo Wang-homepage"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hanqing Wang"
-  avatar           : "images/byz.jpg"
-  bio              : "HKUST(GZ)"
+  name             : "Youzhuo Wang"
+  avatar           : "images/tower_me_v7.jpeg"
+  bio              : "Shanghaitech University"
   location         : Shang Hai
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.cz/citations?user=OeVwcDcAAAAJ&hl=zh-CN"
-  email            : "wanghq2024@shanghaitech.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=CH0xugkAAAAJ&hl=en"
+  email            : "wangyzh2023@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hq-King"
+  github           : "wang-youzhuo"
   google_plus      :
   keybase          :
   instagram        :

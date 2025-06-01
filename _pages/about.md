@@ -17,132 +17,57 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- Hello, I am Hanqing Wang, an incoming Mphil student in  <a href="https://www.hkust-gz.edu.cn/zh/?variant=zh-cn">Hong Kong University of Science and Technology(GZ)</a>. I got my bachelor degree at School of Artificial Intelligence and Automation, Huazhong University of Science and Technology <a href="http://aia.hust.edu.cn/">HUST AIA</a>, and I am a research intern at <a href="[http://aia.hust.edu.cn/](https://www.shlab.org.cn/)">ShangHai AI Lab</a> Now. 
+ Hi👋, I am Youzhuo Wang, a master student in the Visual & Data Intelligence (VDI) Center, 4DVLab advised by <a href="https://yuexinma.me/">Yuexin Ma</a> in ShanghaiTech university. Before that, I got my bachelor's degree at school of computer science and technology, <a href="https://www.en.sdu.edu.cn/">Shandong University</a>.
  
- I'm currently interested in artificial intelligence, computer vision, machine learning, and their applications in robotics and MLLMs. If you have any questions, feel free to drop me an email!
+ I'm currently interested in artificial intelligence, computer vision, and their applications in robotics. If you have any questions, feel free to drop me an email!
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉DAG is coming, please check our project page [here](https://zhangzhh.cn/DAG_page/)！！
-- *2025.05*: &nbsp;🎉🎉<a href="https://www.hkust-gz.edu.cn/zh/?variant=zh-cn">Awesome Affordance Learning </a> realeased, check it now!! ![GitHub Repo stars](https://img.shields.io/github/stars/hq-King/Awesome-Affordance-Learning?style=social)
 
-- *2025.04*: &nbsp;🎉🎉A new journey at ShangHai AI lab as a research intern！！
-- *2025.04*: &nbsp;🎉🎉Draw With Thought released on arxiv, check it now！！
-- *2025.02*: &nbsp;🎉🎉1 paper accepted to CVPR 2025！！
-- *2025.02*: &nbsp;🎉🎉I was honored to be a reviewer in the ICLR 2025 workshop for sci-llm.
-- *2024.06*: &nbsp;🎉🎉I was honored to be selected as an outstanding graduate in HUST. 
+- *2024.04*: &nbsp;🎉🎉 RealDex was accepted by IJCAI 2024
 
 
 # 📝 Publications(\* Indicates Equal Contribution)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='images/DAG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/realdex_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding](https://hq-king.github.io/)
+[RealDex: Towards Human-like Grasping for Robotic Dexterous Hand](https://arxiv.org/pdf/2402.13853)
 
-**Hanqing Wang\***, Zhenhao Zhang\*, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Yumeng Liu\*, Yaxun Yang\*, **Youzhuo Wang\***, Xiaofei Wu, Yichen Yao, Soren Schwertferger, Sibei Yang, Wenping Wang, Jingyi Yu, Xuming He, Yuexin Ma
 
-Under Review
-[Project Page](https://zhangzhh.cn/DAG_page/)
-
-
+IJCAI, 2024
+[\[PDF\]](https://arxiv.org/pdf/2402.13853)
+[\[Project Page\]](https://4dvlab.github.io/RealDex_page/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/draw.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/pdf/2504.09479)
-
-Zhiqing Cui\*, Jiahao Yuan\*, **Hanqing Wang**, Yanshu Li, Chenxu Du, Zhenglong Ding
-
-Under Review
-
-[![arXiv](https://img.shields.io/badge/arXiv-2504.09479-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2504.09479)
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/seqafford.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model](https://arxiv.org/pdf/2412.01550)
-
-Chulin Yu\*, **Hanqing Wang\***, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang
-
-CVPR, 2025
-[![arXiv](https://img.shields.io/badge/arXiv-2412.01550-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2412.01550)
-[Project Page](https://seq-afford.github.io/)
-[PaperWeekly](https://mp.weixin.qq.com/s/Axk9-05R2SN_EuCu5PSwVw?poc_token=HJ4pMGijHyHdTWmWB1yg1AhlCjNOqeDoBi3Gt9ta)
-[搜狐](https://www.sohu.com/a/881316700_121956424)
-</div>
-</div>
-
-
-
-# ✡️ Research Experience
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/AI LAB.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**Shanghai Artificial Intelligence Laboratory**</span>
-
-April 2025 - Now
-
-  Research Intern: LLMs, Benchmark
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skdblue.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**ShanghaiTech University**</span>
-
-September 2024 - April 2025
-
-  Reasearch Assistant: LLM, Embodied AI, 3D Vision
-
-</div>
-</div>
 
 
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hkust.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size:18px;">**Hong Kong University of Science and Technology(GZ)**</span>
+<span style="font-size:18px;">**Shanghaitech University**</span>
 
-September 2025 - June 2027
+September 2024 - now
 
-Major: Mphil
+Major: Master of Electronic and Information Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hk1.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdu.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size:18px;">**Huazhong University of Science and Technology**</span>
+<span style="font-size:18px;">**Shandong University**</span>
 
-September 2020 - July 2024
+September 2018 - July 2022
 
-Major: B.E. in Automation Engineering
+Major: Bachelor of Computer Science and Technology
 
 </div>
 </div>
 
-
-# 🏆 Honors and Awards
-- *2024.06* Outstanding Graduate in <a href="http://aia.hust.edu.cn/"> HUST</a>!
-- *2023* China University Robot Competition of ROBOCON, <b>National First Prize</b>
-- *2022* China University Robot Competition of ROBOCON, <b>National First Prize</b>
-- *2021* China University Robot Competition of ROBOCON, <b>National First Prize</b>
-- *2023* <b>"SIEMENS Cup"</b> China Intelligent Manufacturing Challenge, <b>Second Prize</b>
-- *2022* National Intelligent Robot Innovation Competition, <b>National First Prize</b>
-- *2022*, Outstanding Member in <a href="https://www.innoxsz.com/">Shenzhen InnoX Academy</a>.
-- *2022* RoboCom Robot developer competition, <b>Third Prize</b>
-- *2021* Scholarship of Scientific and Technological Innovation, HUST
-- *2020* Freshman scholarship, HUST
 
 # 🎨 Hobbies
-🚴🏻‍♂️ Cycling, 🏀 Basketball, ⛰️ Hiking, 📷 Photography
+🚴🏻‍♂️ Cycling, 🏐 volleyball, ⛰️ Hiking
