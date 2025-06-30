@@ -24,10 +24,25 @@ redirect_from:
 
 # 🔥 News
 
+- *2025.06*: &nbsp;🎉🎉 DexH2R was accepted by ICCV 2025
 - *2024.04*: &nbsp;🎉🎉 RealDex was accepted by IJCAI 2024
 
 
 # 📝 Publications(\* Indicates Equal Contribution)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/DexH2R_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover]()
+
+**Youzhuo Wang\***, Jiayi Ye\*, Xiaochu Yang\*, Yiming Zhong, Heng Tao, Hang Yu, Yumeng Liu, Jingyi Yu, Yuexin Ma
+
+ICCV, 2025
+[\[PDF\]]()
+[\[Project Page\]](https://dexh2r.github.io/)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/realdex_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
